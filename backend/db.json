@@ -29,6 +29,11 @@
       "name": "Geladeira Brastemp 300 Litros",
       "price": "10000",
       "id": 7
+    },
+    {
+      "name": "Gabinete Phanton nzxt 410 white",
+      "price": "499.99",
+      "id": 8
     }
   ]
 }
